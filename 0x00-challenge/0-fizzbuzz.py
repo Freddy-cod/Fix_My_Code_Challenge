@@ -10,7 +10,7 @@ def fizzbuzz(n):
 
     - For multiples of three, prints "Fizz" instead of the number.
     - For multiples of five, prints "Buzz" instead of the number.
-    - For numbers which are multiples of both three and five, prints "FizzBuzz".
+    - For numbers which are multiples of both three and five, prints "FizzBuzz"
 
     Args:
         n (int): The upper limit of the range to print (inclusive).
